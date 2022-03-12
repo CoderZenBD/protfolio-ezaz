@@ -1,0 +1,277 @@
+@media (min-width: 279px) and (max-width: 320px) {
+  /* code start */
+
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .header .navbar-light .navbar-nav .nav-link.active {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .banner {
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .banner .banner-img{
+      text-align: center;
+  }
+  .banner h1 {
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 700;
+    color: #fe7e11;
+    margin: 20% 0px 10px;
+  }
+  .banner span {
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+  }
+  .banner p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 15px 0px;
+  }
+  .banner .btn {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 12px 25px;
+    margin: 15px 0px 55px;
+  }
+.title {
+    padding: 20px 0px;
+}
+.title h1 {
+    font-size: 32px;
+    line-height: 52px;
+}
+.about {
+    padding: 0px 0px 20px;
+}
+.about h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.about .about-text {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 15px 0px 30px;
+    text-align: justify;
+}
+.about p {
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 500;
+    color: #d1d1d1;
+    margin-bottom: 0.5rem;
+}
+.about p span {
+    position: absolute;
+    right: 60%;
+}
+.about .button-group {
+    margin: 10px 0px 0px;
+    text-align: center;
+}
+.about .btn-warning {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px 30px;
+    margin: 10px;
+}
+.about .btn-light {
+    font-size: 12px;
+    line-height: 26px;
+    padding: 5px 25px;
+    margin: 0px;
+}
+.service {
+    padding: 0px 0px 20px;
+}
+.service .service-box {
+    padding: 15px;
+    margin: 20px 0px 0px;
+}
+.service-box .fa {
+    font-size: 20px;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+}
+.service-box h5 {
+    margin: 5px 0px;
+    font-size: 18px;
+    line-height: 24px;
+}
+.service-box p {
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+}
+.fun-fact .fa {
+    font-size: 32px;
+    line-height: 80px;
+    width: 80px;
+    height: 80px;
+}
+.fun-fact {
+    padding: 20px 0px;
+}
+.fun-fact .fun-box {
+    border: 3px solid #fe7e11;
+    margin: 10px 0px;
+    padding: 15px 0px;
+}
+.fun-fact .fun-box h1 {
+    font-size: 42px;
+    line-height: 46px;
+    margin: 0px;
+}
+.fun-fact .fun-box h5 {
+    font-size: 12px;
+    line-height: 16px;
+}
+.skill {
+    padding: 20px 0px;
+}
+.skill h2 {
+    font-size: 23px;
+    line-height: 29px;
+}
+.skill p {
+    font-size: 12px;
+    line-height: 16px;
+    width: 100%;
+}
+.skill h4 {
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.2px;
+    text-align: left;
+}
+.eyecatcher {
+    padding: 20px 0px;
+}
+.eyecatcher h2 {
+    font-size: 25px;
+    line-height: 31px;
+}
+.eyecatcher p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.eyecatcher .btn {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px 100px;
+    margin: 5px 0px;
+}
+.testi {
+    padding: 20px 0px;
+}
+.testi .testi-box {
+    width: 100% !important;
+    padding: 20px;
+    margin: 50px auto 0px;
+}
+.testi-box .testi-img {
+    width: 80px;
+    height: 80px;
+    margin: -21% 30%;
+}
+.testi-box h2 {
+    font-size: 26px;
+    line-height: 32px;
+    padding: 25px 0px 0px;
+}
+.testi-box h5 {
+    font-size: 17px;
+    line-height: 22px;
+}
+.testi-box p {
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+}
+.project {
+    padding: 20px 0px;
+}
+.project .mix-button {
+    padding: 0px;
+}
+.project .mix-button li {
+    font-size: 12px;
+    padding: 7px 10px;
+    border-radius: 2px;
+    margin: 5px 0px 0px 0px !important;
+}
+.bolg {
+    padding: 20px 0px;
+}
+.bolg .card-body h2 {
+    font-size: 13px;
+    line-height: 30px;
+}
+.bolg .card-body p {
+    font-size: 11px;
+    line-height: 16px;
+    text-align: justify;
+    width: 100%;
+    margin: 17px auto;
+}
+.bolg .card-body .btn {
+    padding: 7px 35px;
+    font-size: 12px;
+    margin: 5px 0px;
+}
+.contact {
+    padding: 20px 0px;
+}
+.contact .contact-icon-box {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.contact-icon-box i {
+    font-size: 25px;
+    line-height: 41px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0px 30% 10px;
+}
+.contact-icon-box p {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0px 0px 0px 0px;
+}
+.contact form{
+    padding: 20px 15px;
+}
+.contact .form-control {
+    padding: 12px;
+    font-size: 12px;
+}
+
+.footer p {
+    font-size: 12px;
+    text-align: center;
+}
+.footer .footer-icon{
+    text-align: center;
+}
+.footer .fa {
+    display: inline-block;
+    margin: 0px 10px 0px;
+    color: #fff;
+    font-size: 15px;
+    float: none;
+    text-align: center;
+}
+
+
+  /* code end */
+}

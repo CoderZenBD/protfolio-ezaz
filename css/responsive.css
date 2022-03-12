@@ -1,0 +1,867 @@
+/* *************************************************
+*low resulation mobile devices like: Galaxy Fold
+************************************************* */
+@media (min-width: 297px) and (max-width: 320px) {
+    /* code start */
+
+    /* code end */
+}
+/* most useful mobile devices 
+************************************************* */
+@media (min-width: 320px) and (max-width: 480px) {
+    /* code start */
+  
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 13px;
+      line-height: 19px;
+    }
+    .header .navbar-light .navbar-nav .nav-link.active {
+      font-size: 13px;
+      line-height: 19px;
+    }
+    .banner {
+      width: 100%;
+      padding: 30px 0px;
+    }
+    .banner h1 {
+      font-size: 32px;
+      line-height: 38px;
+      font-weight: 700;
+      color: #fe7e11;
+      margin: 20% 0px 10px;
+    }
+    .banner .banner-img img{
+        width: 100%;
+    }
+    .banner span {
+      font-size: 22px;
+      line-height: 28px;
+      font-weight: 400;
+      color: #fff;
+    }
+    .banner p {
+      font-size: 15px;
+      line-height: 21px;
+      margin: 15px 0px;
+    }
+    .banner .btn {
+      font-size: 15px;
+      line-height: 21px;
+      padding: 12px 25px;
+      margin: 10px 0px 50px;
+    }
+  .title {
+      padding: 30px 0px;
+  }
+  .title h1 {
+      font-size: 36px;
+      line-height: 40px;
+  }
+  .about {
+      padding: 0px 0px 30px;
+  }
+  .about h4 {
+    font-size: 25px;
+    line-height: 31px;
+    padding: 30px 0px 0px;
+}
+  .about .about-text {
+      font-size: 13px;
+      line-height: 19px;
+      margin: 15px 0px 30px;
+  }
+  .about h5 {
+      font-size: 18px;
+      line-height: 20.8px;
+      font-weight: 500;
+      color: #d1d1d1;
+  }
+  .about p {
+      font-size: 15px;
+      line-height: 21px;
+      font-weight: 500;
+      color: #d1d1d1;
+      margin-bottom: 0.5rem;
+  }
+  .about p span {
+      position: absolute;
+      right: 60%;
+  }
+  .about .button-group {
+      margin: 30px 0px 0px;
+      text-align: center;
+  }
+  .about .btn-warning {
+      font-size: 15px;
+      line-height: 21px;
+      padding: 8px 35vw;
+      margin: 20px 0px 0px;
+  }
+  .about .btn-light {
+      font-size: 15px;
+      line-height: 21px;
+      padding: 8px 27vw;
+      margin: 20px 0px 0px;
+  }
+  .service {
+      padding: 0px 0px 30px;
+  }
+  .service .service-box {
+      padding: 10px;
+      margin: 20px 0px 0px;
+  }
+  .service-box .fa {
+      font-size: 23px;
+      line-height: 55px;
+      width: 55px;
+      height: 55px;
+  }
+  .service-box h5 {
+      margin: 5px 0px;
+      font-size: 20px;
+      line-height: 28px;
+  }
+  .service-box p {
+      color: #fff;
+      font-size: 13px;
+      line-height: 21px;
+      font-weight: 500;
+  }
+  .fun-fact .fa {
+      font-size: 35px;
+      line-height: 85px;
+      width: 85px;
+      height: 85px;
+      margin: 10px 0px 0px;
+  }
+  .fun-fact {
+      padding: 30px 0px;
+  }
+  .fun-fact .fun-box {
+      border: 3px solid #fe7e11;
+      margin: 40px 0px;
+      padding: 20px 0px;
+  }
+  .fun-fact .fun-box h1 {
+      font-size: 42px;
+      line-height: 48px;
+      margin: 8px 0px;
+  }
+  .fun-fact .fun-box h5 {
+      font-size: 17px;
+      line-height: 23px;
+  }
+  .skill {
+      padding: 30px 0px;
+  }
+  .design-box {
+      text-align: center;
+      margin: 40px 0px;
+  }
+  .skill h2 {
+      font-size: 29px;
+      line-height: 37px;
+  }
+  .skill p {
+      font-size: 13px;
+      line-height: 20px;
+      width: 100%;
+  }
+  .skill h4 {
+      font-size: 17px;
+      line-height: 25px;
+      letter-spacing: 1px;
+  }
+  .eyecatcher {
+      padding: 30px 0px;
+  }
+  .eyecatcher h2 {
+      font-size: 30px;
+      line-height: 37px;
+  }
+  .eyecatcher p {
+      font-size: 14px;
+      line-height: 21px;
+  }
+  .eyecatcher .btn {
+      font-size: 15px;
+      line-height: 23px;
+      padding: 10px 35vw;
+      margin: 5px 0px;
+  }
+  
+  
+  .testi {
+      padding: 30px 0px;
+  }
+  .testi .testi-box {
+      width: 100% !important;
+      padding: 20px;
+      margin: 60px auto 0px;
+  }
+  .testi-box .testi-img {
+      width: 100px;
+      height: 100px;
+      margin: -20% 29%;
+  }
+  .testi-box h2 {
+      font-size: 28px;
+      line-height: 34px;
+      padding: 45px 0px 0px;
+  }
+  .testi-box h5 {
+      font-size: 20px;
+      line-height: 27px;
+  }
+  .testi-box p {
+      font-size: 14px;
+      line-height: 21px;
+      text-align: justify;
+  }
+  .project {
+      padding: 30px 0px;
+  }
+  .project .mix-button {
+      text-align: center;
+      padding: 0px;
+  }
+  .project .mix-button li {
+      font-size: 12px;
+      padding: 7px 5px;
+      border-radius: 2px;
+      margin: 0px 5px 0px 0px !important;
+  }
+  .bolg {
+      padding: 30px 0px;
+  }
+  .bolg .card-body h2 {
+      font-size: 19px;
+      line-height: 25px;
+  }
+  .bolg .card-body p {
+      font-size: 12.5px;
+      line-height: 18px;
+      text-align: justify;
+      width: 100%;
+      margin: 15px auto;
+  }
+  .bolg .card-body .btn {
+      padding: 8px 40px;
+      font-size: 13px;
+      margin: 10px 0px 5px;
+  }
+  .contact {
+      padding: 30px 0px;
+  }
+  .contact .contact-icon-box {
+      width: 100%;
+      padding: 5px 10px;
+  }
+  .contact-icon-box i {
+      font-size: 28px;
+      line-height: 40px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      text-align: center;
+  }
+  .contact-icon-box p {
+      font-size: 14px;
+      line-height: 20px;
+      margin: 0px 0px 0px 20px;
+  }
+  .contact form{
+      padding: 30px 10px;
+  }
+  .contact .form-control {
+      padding: 10px;
+      font-size: 14px;
+  }
+  .footer p {
+      font-size: 13px;
+      text-align: center;
+  }
+  .footer .footer-icon{
+      text-align: center;
+  }
+  .footer .fa {
+      display: inline-block;
+      margin: 0px 10px 0px 10px;
+      color: #fff;
+      font-size: 17px;
+      float: none;
+      text-align: center;
+  }
+  
+  
+    /* code end */
+  }
+
+  @media (min-width: 481px) and (max-width: 767px) {
+    /* code start */
+  
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 14px;
+      line-height: 21px;
+    }
+    .header .navbar-light .navbar-nav .nav-link.active {
+      font-size: 14px;
+      line-height: 21px;
+    }
+    .banner {
+      width: 100%;
+      padding: 40px 0px;
+    }
+    .banner .banner-img img{
+      width: 100%;
+  }
+    .banner h1 {
+      font-size: 38px;
+      line-height: 45px;
+      font-weight: 700;
+      color: #fe7e11;
+      margin: 20% 0px 10px;
+    }
+    .banner span {
+      font-size: 26px;
+      line-height: 33px;
+      font-weight: 400;
+      color: #fff;
+    }
+    .banner p {
+      font-size: 16px;
+      line-height: 23px;
+      margin: 17px 0px;
+    }
+    .banner .btn {
+      font-size: 16px;
+      line-height: 23px;
+      padding: 12px 28px;
+      margin: 15px 0px 55px;
+    }
+  .title {
+      padding: 40px 0px;
+  }
+  .title h1 {
+      font-size: 42px;
+      line-height: 49px;
+  }
+  .about {
+      padding: 0px 0px 40px;
+  }
+  .about h4 {
+      font-size: 26px;
+      line-height: 33px;
+      padding: 35px 0px 0px;
+  }
+  .about .about-text {
+      font-size: 13.5px;
+      line-height: 20.5px;
+      margin: 15px 0px 30px;
+  }
+  .about p {
+      font-size: 16px;
+      line-height: 23px;
+      font-weight: 500;
+      color: #d1d1d1;
+      margin-bottom: 0.5rem;
+  }
+  .about p span {
+      position: absolute;
+      right: 58%;
+  }
+  .about .button-group {
+      margin: 40px 0px 0px;
+      text-align: center;
+  }
+  .about .btn-warning {
+      font-size: 16px;
+      line-height: 23px;
+      padding: 8px 38vw;
+      margin: 20px 0px 0px;
+  }
+  .about .btn-light {
+      font-size: 16px;
+      line-height: 23px;
+      padding: 8px 32vw;
+      margin: 20px 0px 0px;
+  }
+  .service {
+      padding: 0px 0px 40px;
+  }
+  .service .service-box {
+      padding: 20px;
+      margin: 25px 0px 0px;
+  }
+  .service-box .fa {
+      font-size: 23.5px;
+      line-height: 58px;
+      width: 58px;
+      height: 58px;
+  }
+  .service-box h5 {
+      margin: 5px 0px;
+      font-size: 20.5px;
+      line-height: 29.5px;
+  }
+  .service-box p {
+      color: #fff;
+      font-size: 13.5px;
+      line-height: 22.5px;
+      font-weight: 500;
+  }
+  .fun-fact .fa {
+      font-size: 40px;
+      line-height: 88px;
+      width: 88px;
+      height: 88px;
+      margin: 15px 0px 0px;
+  }
+  .fun-fact {
+      padding: 40px 0px;
+  }
+  .fun-fact .fun-box {
+      border: 3px solid #fe7e11;
+      margin: 40px 0px;
+      padding: 22px 0px;
+  }
+  .fun-fact .fun-box h1 {
+      font-size: 46px;
+      line-height: 53px;
+      margin: 8px 0px;
+  }
+  .fun-fact .fun-box h5 {
+      font-size: 17.2px;
+      line-height: 23px;
+  }
+  .skill {
+      padding: 40px 0px;
+  }
+  .design-box {
+      text-align: center;
+      margin: 42px 0px;
+  }
+  .skill h2 {
+      font-size: 30px;
+      line-height: 37px;
+  }
+  .skill p {
+      font-size: 14px;
+      line-height: 21px;
+      width: 100%;
+  }
+  .skill h4 {
+      font-size: 17.2px;
+      line-height: 25.2px;
+      letter-spacing: 1px;
+  }
+  .eyecatcher {
+      padding: 31px 0px;
+  }
+  .eyecatcher h2 {
+      font-size: 34px;
+      line-height: 41px;
+  }
+  .eyecatcher p {
+      font-size: 14.5px;
+      line-height: 21px;
+  }
+  .eyecatcher .btn {
+      font-size: 16px;
+      line-height: 23px;
+      padding: 10px 38vw;
+      margin: 5.2px 0px;
+  }
+  
+  
+  .testi {
+      padding: 40px 0px;
+  }
+  .testi .testi-box {
+      width: 100% !important;
+      padding: 20px;
+      margin: 70px auto 0px;
+  }
+  .testi-box .testi-img {
+      width: 100px;
+      height: 100px;
+      margin: -14% 36%;
+  }
+  .testi-box h2 {
+      font-size: 29px;
+      line-height: 36px;
+      padding: 46px 0px 0px;
+  }
+  .testi-box h5 {
+      font-size: 21px;
+      line-height: 28px;
+  }
+  .testi-box p {
+      font-size: 15px;
+      line-height: 22px;
+      text-align: justify;
+  }
+  .project {
+      padding: 40px 0px;
+  }
+  .project .mix-button {
+      text-align: center;
+      padding: 0px;
+  }
+  .project .mix-button li {
+      font-size: 14px;
+      padding: 8px 15px;
+      border-radius: 2px;
+      margin: 0px 6px 0px 0px !important;
+  }
+  .bolg {
+      padding: 40px 0px;
+  }
+  .bolg .card-body h2 {
+      font-size: 20px;
+      line-height: 27px;
+  }
+  .bolg .card-body p {
+      font-size: 13px;
+      line-height: 19px;
+      text-align: justify;
+      width: 100%;
+      margin: 16px auto;
+  }
+  .bolg .card-body .btn {
+      padding: 8px 42px;
+      font-size: 14px;
+      margin: 10px 0px 5px;
+  }
+  .contact {
+      padding: 40px 0px;
+  }
+  .contact .contact-icon-box {
+      width: 100%;
+      padding: 10px 20px;
+  }
+  .contact-icon-box i {
+      font-size: 30px;
+      line-height: 43px;
+      width: 55px;
+      height: 55px;
+      border-radius: 50%;
+      text-align: center;
+  }
+  .contact-icon-box p {
+      font-size: 14.5px;
+      line-height: 21.5px;
+      margin: 0px 0px 0px 25px;
+  }
+  .contact form{
+      padding: 40px 15px;
+  }
+  .contact .form-control {
+      padding: 12px;
+      font-size: 14.5px;
+  }
+  .footer p {
+      font-size: 13.5px;
+      text-align: center;
+  }
+  .footer .footer-icon{
+      text-align: center;
+  }
+  .footer .fa {
+      display: inline-block;
+      margin: 0px 15px 0px;
+      color: #fff;
+      font-size: 18px;
+      float: none;
+      text-align: center;
+  }
+  
+  
+    /* code end */
+  }
+  
+/*Mini Laptop , Notebook
+************************************************* */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* code start */
+
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .header .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .banner {
+    width: 100%;
+    padding: 50px 0px;
+  }
+  .banner .banner-img{
+      text-align: center;
+  }
+  .banner .banner-img img{
+    width: 70%;
+}
+  .banner h1 {
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #fe7e11;
+    margin: 20% 0px 10px;
+  }
+  .banner span {
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #fff;
+  }
+  .banner p {
+    font-size: 17px;
+    line-height: 24px;
+    margin: 18px 0px;
+  }
+  .banner .btn {
+    font-size: 16px;
+    line-height: 23px;
+    padding: 12px 30px;
+    margin: 17px 0px 55px;
+  }
+.title {
+    padding: 50px 0px;
+}
+.title h1 {
+    font-size: 45px;
+    line-height: 52px;
+}
+.about {
+    padding: 0px 0px 50px;
+}
+.about h4 {
+    font-size: 30px;
+    line-height: 38px;
+}
+.about .about-text {
+    font-size: 15px;
+    line-height: 24px;
+    margin: 18px 0px 30px;
+}
+.about p {
+    font-size: 17px;
+    line-height: 26px;
+    font-weight: 500;
+    color: #d1d1d1;
+    margin-bottom: 0.5rem;
+}
+.about p span {
+    position: absolute;
+    right: 34%;
+}
+.about .button-group {
+    margin: 10px 0px 0px;
+    text-align: center;
+}
+.about .btn-warning {
+    font-size: 17px;
+    line-height: 26px;
+    padding: 8px 30px;
+    margin: 0px;
+}
+.about .btn-light {
+    font-size: 17px;
+    line-height: 26px;
+    padding: 8px 30px;
+    margin: 0px;
+}
+.service {
+    padding: 0px 0px 50px;
+}
+.service .service-box {
+    padding: 25px;
+    margin: 25px 0px 0px;
+}
+.service-box .fa {
+    font-size: 24.5px;
+    line-height: 59px;
+    width: 59px;
+    height: 59px;
+}
+.service-box h5 {
+    margin: 8px 0px;
+    font-size: 21px;
+    line-height: 29px;
+}
+.service-box p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 500;
+}
+.fun-fact .fa {
+    font-size: 42px;
+    line-height: 90px;
+    width: 90px;
+    height: 90px;
+}
+.fun-fact {
+    padding: 50px 0px;
+}
+.fun-fact .fun-box {
+    border: 3px solid #fe7e11;
+    margin: 42px 0px;
+    padding: 24px 0px;
+}
+.fun-fact .fun-box h1 {
+    font-size: 52px;
+    line-height: 61px;
+    margin: 9px 0px;
+}
+.fun-fact .fun-box h5 {
+    font-size: 17.5px;
+    line-height: 26.5px;
+}
+.skill {
+    padding: 50px 0px;
+}
+.skill h2 {
+    font-size: 31px;
+    line-height: 39px;
+}
+.skill p {
+    font-size: 15px;
+    line-height: 24px;
+    width: 100%;
+}
+.skill h4 {
+    font-size: 17.5px;
+    line-height: 26.5px;
+    letter-spacing: 1px;
+}
+.eyecatcher {
+    padding: 32px 0px;
+}
+.eyecatcher h2 {
+    font-size: 29px;
+    line-height: 38px;
+}
+.eyecatcher p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.eyecatcher .btn {
+    font-size: 17px;
+    line-height: 26px;
+    padding: 8px 40px;
+    margin: 6px 0px;
+}
+.testi {
+    padding: 50px 0px;
+}
+.testi .testi-box {
+    width: 100% !important;
+    padding: 20px;
+    margin: 80px auto 0px;
+}
+.testi-box .testi-img {
+    width: 110px;
+    height: 110px;
+    margin: -11% 39%;
+}
+.testi-box h2 {
+    font-size: 31px;
+    line-height: 40px;
+    padding: 47px 0px 0px;
+}
+.testi-box h5 {
+    font-size: 21.5px;
+    line-height: 30.5px;
+}
+.testi-box p {
+    font-size: 15.5px;
+    line-height: 24.5px;
+    text-align: justify;
+}
+.project {
+    padding: 50px 0px;
+}
+.project .mix-button {
+    text-align: left;
+    padding: 0px;
+}
+.project .mix-button li {
+    font-size: 16px;
+    padding: 8px 28px;
+    border-radius: 2px;
+    margin: 0px 16px 0px 0px !important;
+}
+.imx img{
+    text-align: center !important;
+}
+.bolg {
+    padding: 50px 0px;
+}
+.bolg .card-body h2 {
+    font-size: 21px;
+    line-height: 30px;
+}
+.bolg .card-body p {
+    font-size: 13.5px;
+    line-height: 21px;
+    text-align: justify;
+    width: 100%;
+    margin: 17px auto;
+}
+.bolg .card-body .btn {
+    padding: 8px 45px;
+    font-size: 14px;
+    margin: 10px 0px 5px;
+}
+.contact {
+    padding: 50px 0px;
+}
+.contact .contact-icon-box {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0px;
+}
+.contact-icon-box i {
+    font-size: 30px;
+    line-height: 43px;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0px 30% 10px;
+}
+.contact-icon-box p {
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0px 0px 0px 0px;
+}
+.contact form{
+    padding: 40px 15px;
+}
+.contact .form-control {
+    padding: 14px;
+    font-size: 15px;
+}
+
+.footer p {
+    font-size: 15px;
+    text-align: center;
+}
+.footer .footer-icon{
+    text-align: center;
+}
+.footer .fa {
+    display: inline-block;
+    margin: 0px 22px 0px;
+    color: #fff;
+    font-size: 19px;
+    float: none;
+    text-align: center;
+}
+
+
+  /* code end */
+}
